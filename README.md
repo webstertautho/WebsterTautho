@@ -51,18 +51,25 @@ Feel free to check out my repos, fork them, or drop me a message! Collaboration 
 ⭐ Thanks for visiting! Have a great day!
 
 
-### 📊 GitHub Stats
+#### Docs ✍️
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodotskiees1&show_icons=true&theme=radical" width="48%" />
+- [awesome-stars](https://github.com/angristan/awesome-stars): A curated list of my **GitHub stars**
+- [dotfiles](https://github.com/angristan/dotfiles): Personal **dotfiles** managed by **chezmoi**
+- [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd): A curated list of awesome **LXC** and **LXD** tools, libraries and related projects.
+- [nixos-config](https://github.com/angristan/nixos-config): My **NixOS** configuration files
+- [arch-linux-install](https://github.com/angristan/arch-linux-install): My **Arch Linux** installation notes
 
-</p>
+#### Tools 🛠
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodotskiees1&layout=compact&theme=radical" width="48%" />
-</p>
+- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
+- [bsport-exporter](https://github.com/angristan/bsport-exporter): A **Prometheus exporter** for bsport.io, to track how many workouts I do over time 💪
+- [bsport-charts](https://github.com/angristan/bsport-charts): A CLI written in **Go using go-echarts** that generates workout charts from the Bsport API.
 
----
+### 🌍 The languages I use
+
+| ⏰ Past month                                                                                                                                           | ⌛️ All time <img align="right" src="https://wakatime.com/badge/user/0c82e760-612e-48fd-84d9-31259dc96d07.svg" alt="Total time coded since Aug 17 2019" /> |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" height="300px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" height="300px"></a>    |
 
 ### 🔥 TILL DAWN
 
