@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" width="400" alt="Coding GIF"/>
 </p>
-# Hi there, I'm Weeb00.t <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30">
+<h1 align="center">Hi 👋, I'm Ivan Carl Ubanan</h1>
+<h3 align="center">Back-End Developer | Passionate about building scalable, secure, and efficient server-side systems 🚀</h3>
+
 <a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
