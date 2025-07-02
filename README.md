@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" width="400" alt="Coding GIF"/>
 </p>
 <h1 align="center">Hi 👋, I'm Webster Tautho. </h1>
-<h3 align="center">Back-End Developer | Passionate about building scalable, secure, and efficient server-side systems 🚀</h3>
+<h3 align="center">Front-end Developer | Passionate about building scalable, secure, and efficient server-side systems 🚀</h3>
 
 <p align="center">
 <a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
