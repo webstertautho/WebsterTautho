@@ -1,14 +1,4 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Poppins', sans-serif;
-    }
-    h1, h3 {
-      font-weight: 600;
-    }
-  </style>
-</head>
+
 
 <!-- Profile Banner -->
 <p align="center">
